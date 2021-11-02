@@ -44,7 +44,7 @@ int main (int argc, char* argv[])
 			stringstream textPlayerTurn;
 			SDL_Color textColor = { 0, 0, 0, 255 };
 
-			//FPS Timer and Variables
+			//FPS Timer and variables
 			float avgFPS = 0;
 			int countedFrames = 0;
 			int decimalDigitValue = 1;
