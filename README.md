@@ -10,7 +10,7 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> A simple Tic-Tac-Toe videogame.
+> A simple Tic-Tac-Toe videogame.  
 > My first project creating a game, and also my first time using SDL2 libraries.  
 > Game is only 2 player mode, there is no AI to handle single player.  
 > Multiple source files. 800x600 pixels resolution.
