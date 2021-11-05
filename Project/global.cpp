@@ -238,7 +238,7 @@ float RoundDown(float number, const int value)
 	// then divided by 100 so the value converted into 12.35 
 
 	number = (int)(number * value + .5);
-	return number / 100;
+	return (number / value);
 }
 
 void draw_grid()
