@@ -12,17 +12,15 @@
 <br/>
 > A simple Tic-Tac-Toe 2D videogame.  
 > My first project creating a game, and also my first time using SDL2 libraries.  
-> Game is only 2 player mode, there is no AI to handle single player.  
-> Multiple source files. 800x600 pixels resolution.
+> Game is only 2 player mode, there is no single player mode.  
 <br/>
 
 ## Features
 * Single game scene
-* Only 2 player mode, no single player or AI
 * Mouse control
 * Basic sounds
 * VSync active with average FPS counter
-* My first project
+* 800x600 pixels resolution
 
 <br/>
 <br/>
